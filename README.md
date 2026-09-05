@@ -42,12 +42,6 @@ Not my comfort zone yet — and that's the point. I'm learning **Go, Python, and
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohandamged70m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="trophies" />
-</div>
-
 ### 📊 Stats
 
 <div align="center">
