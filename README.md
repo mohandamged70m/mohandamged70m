@@ -45,12 +45,12 @@ Not my comfort zone yet — and that's the point. I'm learning **Go, Python, and
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohandamged70m&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohandamged70m&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohandamged70m&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohandamged70m&theme=tokyonight" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=mohandamged70m&theme=tokyonight&hide_border=true" height="150" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohandamged70m&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohandamged70m&theme=tokyonight" width="100%" />
 </div>
 
 ---
