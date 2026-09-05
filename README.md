@@ -1,81 +1,82 @@
-<h1 align="center">Hey, I'm Mohammed Ahmed 👋 <br/> a.k.a. Tem Revil</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Front-End+Dev+%26+AI+Products+Expert;Chasing+bugs+until+they+regret+existing;Currently+leveling+up%3A+System+Design" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://temrevil.com/XIIffNq6" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:temrevil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="http://wa.me/+201001308280" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
----
-
-### 🧭 About Me
-
-I craft clean, responsive UIs and somehow still enjoy JavaScript (don't ask). Right now I'm on a focused growth path:
-
-**Front-End** → **System Design** *(current stage)* → **Cloud Services** *(learning curve incoming)*
-
-Open to collaborating with **back-end devs who write real code** — not motivational `console.log`s.
-
----
-
-### 🧠 Tech Stack
-
-**Home turf — where I'm actually comfortable:**
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,github,gcp,firebase,vscode" />
-</p>
-
-**Still learning — reading the code, following the architecture, fixing real bugs along the way:**
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,go,rust,cs,ruby,java" />
-</p>
-
-> I picked most of these up by fixing real issues rather than tutorials — I understand the ideas more than I have the years. Still learning, and honestly that's the fun part.
-
----
-
-### 🌱 Open Source Contributions
-
-Small, real fixes in projects that people actually use:
-
-| Project | What I fixed |
-|---|---|
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/68672) | Added missing tested requirements to a lab's user stories |
-| [TanStack Router](https://github.com/TanStack/router/pull/7782) | Made validation errors format safely instead of crashing on odd inputs |
-| [Storybook](https://github.com/storybookjs/storybook/pull/35460) | Taught an ESLint rule to recognise the `storybook/test` import |
-| [Plotly.js](https://github.com/plotly/plotly.js/pull/7900) | Fixed number formatting dropping the sign flag (like `+.2f`) |
-| [python-docx](https://github.com/python-openxml/python-docx/pull/1566) | Stopped `add_picture` crashing on unsupported image types |
-| [go-yaml](https://github.com/goccy/go-yaml/pull/891) | Fixed a printer crash when handling YAML aliases |
-| [GitHub Linguist](https://github.com/github-linguist/linguist/pull/8063) | Added support for the Civet language |
-| [AWS Lambda .NET](https://github.com/aws/aws-lambda-dotnet/pull/2474) | Made the JSON logger honour the category setting |
-| [near-sdk-rs](https://github.com/near/near-sdk-rs/pull/1591) | Fixed outdated documentation links (merged) |
-| [F1 Race Replay](https://github.com/IAmTomShaw/f1-race-replay/pull/312) | Fixed the race leaderboard showing the wrong finishing order |
-
-More on my [activity tab →](https://github.com/TemRevil?tab=overview)
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=temrevil&show_icons=true&theme=react&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temrevil&layout=compact&theme=react&hide_border=true" height="165" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=temrevil&theme=react&hide_border=true" height="165" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohand+Amgad;Full-Stack+Engineer+%28Frontend-Obsessed%29;I+build+clean%2C+fast%2C+responsive+UIs;Next.js+%2B+TypeScript+is+my+home+turf)](https://git.io/typing-svg)
+
+<p>
+Full-stack engineer focused on frontend. I care about clean UI, real performance,<br/>
+and code that doesn't fall apart after the demo.
+</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=mohandamged70m&label=Profile%20views&color=0e75b6&style=flat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-live-58A6FF?style=flat&logo=vercel&logoColor=white)](https://mohanddarwish.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohandamged)
+[![Gmail](https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohandamged70m@gmail.com)
+
 </div>
 
 ---
 
+### 🧭 Where I'm at
+
+**Frontend (now) → Full-Stack Systems (building) → Cloud & Scale (next)**
+
+I started where users feel everything — HTML, CSS, JavaScript — and I'm expanding outward to backend architecture, data, and deployment without losing that frontend obsession.
+
+---
+
+### 🛠️ Home Turf
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,nodejs,mongodb,supabase,github,vscode" />
+</p>
+
+This is where I ship: **TypeScript + Next.js + Node.js**, backed by **MongoDB / Supabase**. Responsive layouts, app router, API routes, auth, real data — the full loop from UI to DB.
+
+### 🌱 Currently Leveling Up
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,py,nestjs,docker" />
+</p>
+
+Not my comfort zone yet — and that's the point. I'm learning **Go, Python, and NestJS** to think more like a backend engineer: structured APIs, concurrency, system design. I can read them, build with docs, and debug my way through. Progress > pretending.
+
+---
+
+### 🏆 Trophies
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/temrevil/temrevil/output/snake.svg" alt="snake eating my commits" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohandamged70m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="trophies" />
 </div>
 
-<p align="center"><i>Thanks for scrolling this far — go build something. 🚀</i></p>
+### 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohandamged70m&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohandamged70m&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=mohandamged70m&theme=tokyonight&hide_border=true" height="150" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohandamged70m&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+### 🤝 Open To Collaborate
+
+I'm just getting started with collaboration and open source — and I'm all in.
+
+If you're building something interesting — a frontend, a full-stack app, an AI product, or just a weird side-project that deserves a great UI — let's talk. I'm especially happy to team up where I can own the frontend while learning from stronger backend / systems folks.
+
+- 🔥 Portfolio: [mohanddarwish.vercel.app](https://mohanddarwish.vercel.app/)
+- 📩 Email: [mohandamged70m@gmail.com](mailto:mohandamged70m@gmail.com)
+- 💼 LinkedIn: [in/mohandamged](https://www.linkedin.com/in/mohandamged)
+
+> Good code + good communication > stack debates. If you're serious about shipping, we'll get along.
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mohandamged70m/mohandamged70m/output/snake.svg" alt="snake eating my contributions" />
+<br/>
+<sub>Frontend focus. Full-stack mindset. Always shipping.</sub>
+</div>
